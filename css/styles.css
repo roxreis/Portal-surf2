@@ -265,7 +265,7 @@ nav ul li a{
 .botao{
     flex-direction: row;
     /* background-color: #235879; */
-    width: 542px;
+    width: 497px;
     height: 95px;
     color: #fff;
     /* font-size: 0.8rem; */
@@ -275,13 +275,13 @@ nav ul li a{
     /* margin-right: 572px; */
 }
 
-.botao-um{width: 18vw;font-size: 1.9rem;border-radius: 0.1rem;border: solid 1px #84478500;color: #ffffff;background-color: #53858d;}
+.botao-um{width: 15vw;font-size: 1.9rem;border-radius: 0.1rem;border: solid 1px #84478500;color: #ffffff;background-color: #53858d;}
 
 .botao-dois{
     background-color: #ffffff;
     color: #53858d;
     border: solid 1px #8b538c00;
-    width: 18vw;
+    width: 15vw;
     font-size: 1.9rem;
     border-radius: 0.1rem;
 }
