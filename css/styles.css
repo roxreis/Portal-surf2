@@ -152,7 +152,8 @@ nav ul li a{
     /* align-items: flex-start; */
     /* margin-right: 506px; */
     text-shadow: #949494 1px 0px 3px;
-    text-align: center;
+    /* text-align: center; */
+    align-items: center;
 }
 
 .texto-index-2{
@@ -265,7 +266,7 @@ nav ul li a{
 .botao{
     flex-direction: row;
     /* background-color: #235879; */
-    width: 542px;
+    width: 468px;
     height: 95px;
     color: #fff;
     /* font-size: 0.8rem; */
@@ -275,13 +276,13 @@ nav ul li a{
     /* margin-right: 572px; */
 }
 
-.botao-um{width: 18vw;font-size: 1.9rem;border-radius: 0.1rem;border: solid 1px #84478500;color: #ffffff;background-color: #53858d;}
+.botao-um{width: 13vw;font-size: 1.9rem;border-radius: 0.1rem;border: solid 1px #84478500;color: #ffffff;background-color: #53858d;}
 
 .botao-dois{
     background-color: #ffffff;
     color: #53858d;
     border: solid 1px #8b538c00;
-    width: 18vw;
+    width: 13vw;
     font-size: 1.9rem;
     border-radius: 0.1rem;
 }
@@ -350,7 +351,8 @@ nav ul li a{
     font-size: 1.5rem;
     color: #ffffff;
     width: 680px;
-    margin-left: 293px;
+    /* margin-left: 293px; */
+    text-align: center;
 }
 
 .cards-home{
